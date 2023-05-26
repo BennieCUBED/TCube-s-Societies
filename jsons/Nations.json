@@ -2,7 +2,7 @@
 
   {
 
-		"name": "The Kingdom",		"leaderName": "King George II",
+		"name": "The Kingdom",		"leaderName": "King Sereed II",
 
 		"adjective": ["Kingdom"],
 
@@ -20,13 +20,13 @@
 
 	  
 
-		"startIntroPart1": "After the death of your Farther, King George, you have became the next king! .",
+		"startIntroPart1": "After the death of your Farther, King Sereed, you have became the next king! .",
 
 		"startIntroPart2": "Will you create a Civilisation that will stand the test of time?.",
 
  
 
-	    "introduction": "Greetings, I am King George the II!",
+	    "introduction": "Greetings, I am King Sereed the II!",
 
 	    "declaringWar": "May God have mercy on your soul! For I will not...",
 
