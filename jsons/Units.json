@@ -1,1 +1,25 @@
+[
 
+	{		"uniqueTo": "The Kingdom",
+
+		"name": "Man-at-arms",
+
+		"replaces": "Longswordsman",
+
+		"unitType": "Sword",
+
+		"movement": 2,
+
+		"strength": 6,
+
+		"cost": 30,
+
+		"obsoleteTech": "Scientific Theory",
+
+		"upgradesTo": "Musketman",
+
+		"uniques": ["+20% [Strength] when [Defending] "],
+
+		"promotions": ["Shock I"],
+
+		"attackSound": "nonmetalhit",
