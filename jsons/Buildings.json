@@ -4,7 +4,7 @@
 
     {
 
-		"name": "Guild",		"replaces": "Bank",
+		"name": "Dungeon",		"replaces": "Courthouse",
 
 		"uniqueTo": "The Kingdom",
 
@@ -16,10 +16,10 @@
 
 		"percentStatBonus": {"gold": 25},
 
-		"requiredBuilding": "Market",
+		"requiredBuilding": "",
 
-		"requiredTech": "Banking",
+		"requiredTech": "Mathematics",
 
-		"uniques": ["[1+ Gold] from from [Luxury resource] tiles [in this city]"]
+		"uniques": ["[2+ Happiness] from from [Bonus resource] tiles [in this city]"]
 
 	},
